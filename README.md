@@ -1,2 +1,2 @@
 # weather
-Learning Machine Learning to build weather forecast models.
+Machine Learning to build weather forecast models.
